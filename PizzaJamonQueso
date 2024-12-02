@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Pizza jamón y queso</title>
+</head>
+
+<style>
+    * {
+        background-color: lightblue;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    img {
+        margin-left: 20%;
+    }
+    
+    a{
+        text-decoration: none;
+        color: grey;
+    }
+
+    a:hover{
+        color: yellow;
+    }
+
+</style>
+
+<body>
+
+    <h1>Pizza jamón y queso</h1>
+
+    <img src="https://imag.bonviveur.com/primer-plano-de-la-pizza-prosciutto-o-de-jamon-cocido.jpg" width="500">
+
+    <br>
+
+    <a href="index.html">[ Volver al índice ]</a>
+
+</body>
+
+</html>
